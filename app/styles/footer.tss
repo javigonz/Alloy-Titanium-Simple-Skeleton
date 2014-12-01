@@ -1,0 +1,54 @@
+// ANDROID *********************************************************
+
+".viewFooter[platform=android]": { 
+	height: Alloy.Globals.Height_Footer,
+	width: Ti.UI.FILL,
+	backgroundColor: Alloy.CFG.BLUE2,
+	layout: 'horizontal'
+}
+
+".MenuView[platform=android]": {
+    height: 50, 
+    backgroundColor: Alloy.CFG.BLUE2
+    
+}
+
+".MenuText[platform=android]": {
+	color: Alloy.CFG.WHITE,
+	font: {
+		fontFamily: Alloy.CFG.ARIAL_NORMAL, 
+		fontSize: 	14,
+		fontWeight: 'normal'
+	},
+	textAlign: 'center'
+
+}
+
+
+// IPHONE *********************************************************
+
+".viewFooter[platform=ios]": { 
+	height: Alloy.Globals.Height_Footer,
+	width: Ti.UI.FILL,
+	backgroundColor: Alloy.CFG.BLUE2,
+	layout: 'horizontal'
+}
+
+
+".MenuView[platform=ios]": {
+    height: 50, 
+    backgroundColor: Alloy.CFG.BLUE2
+    
+}
+
+".MenuText[platform=ios]": {
+	color: Alloy.CFG.WHITE,
+	font: {
+		fontFamily: Alloy.CFG.ARIAL_NORMAL, 
+		fontSize: 	14,
+		fontWeight: 'normal'
+	},
+	textAlign: 'center'
+
+}
+

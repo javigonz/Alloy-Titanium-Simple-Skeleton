@@ -1,0 +1,9 @@
+<Alloy>
+	
+	<View class="viewHome" id="viewHome" >
+		
+		<Label text="This is HOME"></Label>
+		
+	</View>
+	
+</Alloy>

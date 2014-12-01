@@ -1,0 +1,29 @@
+
+// ANDROID *********************************************************
+
+".winInitContainer[platform=android]": {
+	backgroundColor:Alloy.CFG.WHITE,
+	navBarHidden: "true",
+	tabBarHidden: "true",
+	exitOnClose: "false"
+}
+
+
+".viewInitContainer[platform=android]": {
+  backgroundColor: 	Alloy.CFG.WHITE,
+}
+
+
+// IPHONE *********************************************************
+
+".winInitContainer[platform=ios]": {
+	backgroundColor:Alloy.CFG.WHITE,
+	navBarHidden: "true",
+	tabBarHidden: "true",
+	exitOnClose: "true"
+}
+
+
+".viewInitContainer[platform=ios]": {
+    backgroundColor: 	Alloy.CFG.WHITE,
+}

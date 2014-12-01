@@ -1,0 +1,35 @@
+// IPHONE *********************************************************
+".winloading[platform=ios]" : {
+	backgroundColor: Alloy.CFG.BLACK,
+    opacity: 0.6,
+    width: Ti.UI.FILL,
+    height: Ti.UI.FILL,
+    top: 0
+  
+}
+
+".activityIndicator[platform=ios]" : {
+	style: 'Titanium.UI.iPhone.ActivityIndicatorStyle.BIG',
+	color:Alloy.CFG.WHITE,
+	height:'100%',
+	width:Ti.UI.SIZE,
+	opacity:1
+  
+}
+
+// ANDROID *********************************************************
+".winloading[platform=android]" : {
+	backgroundColor: Alloy.CFG.BLACK,
+    opacity: 0.7,
+    width: Ti.UI.FILL,
+    height: Ti.UI.FILL,
+    top:0
+  
+}
+
+".activityIndicator[platform=android]" : {
+	color:Alloy.CFG.WHITE,
+	style: Ti.UI.ActivityIndicatorStyle.BIG,
+	opacity:1
+  
+}

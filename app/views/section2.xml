@@ -1,0 +1,9 @@
+<Alloy>
+	
+	<View class="viewSection2" id="viewSection2" >
+		
+		<Label text="This is SECTION 2"></Label>
+		
+	</View>
+	
+</Alloy>

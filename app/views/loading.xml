@@ -1,0 +1,9 @@
+<Alloy>
+	
+	<View class="winloading"   id="winloading" >
+		
+		 <ActivityIndicator id="activityIndicator" class="activityIndicator" ></ActivityIndicator>
+		
+	</View>
+	
+</Alloy>

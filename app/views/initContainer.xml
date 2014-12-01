@@ -1,0 +1,24 @@
+<Alloy>
+	
+	<Window class="winInitContainer" id="winInitContainer" navBarHidden="true" tabBarHidden="true" >
+
+		<View  id="viewInitContainer" class="viewInitContainer" > 
+			 	
+			<!-- Load the section here -->
+			
+		</View>	
+		
+		<!-- Navigation Window -->
+		<Require id="header" src="header"  />
+		
+		<!-- Navigation bar -->
+		<Require id="footer" src="footer"  />
+		
+		<!-- Loading view -->
+		<Require id="loading" src="loading"  />	
+		
+		
+	</Window>
+		
+	
+</Alloy>

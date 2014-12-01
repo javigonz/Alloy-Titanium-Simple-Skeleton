@@ -1,0 +1,18 @@
+// ANDROID *********************************************************
+
+".viewSection2[platform=android]": { 
+	backgroundColor: Alloy.CFG.WHITE,
+	top: 0
+}
+
+
+
+// IPHONE *********************************************************
+
+".viewSection2[platform=ios]": { 
+	backgroundColor: Alloy.CFG.WHITE,
+	top: 0
+}
+
+
+
