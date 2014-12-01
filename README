@@ -1,7 +1,13 @@
 Welcome to your Appcelerator Titanium Mobile Project
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+This is a init project with two sections to navigate, and a Navigation bar (header) and a Window bar (footer).
+
+Only work in one unique window, to reduce the amount memory leak. The new section is loading inside a view after remove all children in this view.
+Perfect to start with a proyect for iOS and Android and create more sections and content.
+
+SDK Titanium version: 3.4.1
+iOS version: 8.1
+Android version: 21
 
 
 
