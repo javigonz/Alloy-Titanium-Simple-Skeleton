@@ -1,5 +1,5 @@
 
-Alloy/Titanium Simple Skeleton App
+Alloy/Titanium Simple Skeleton Project
 ===
 
 This is a init project with two sections to navigate, and a Navigation bar (header) and a Window bar (footer):
